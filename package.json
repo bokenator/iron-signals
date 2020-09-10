@@ -1,0 +1,29 @@
+{
+    "authors": [
+    "The Polymer Authors"
+  ],
+  "bugs": {
+    "url": "https://github.com/PolymerElements/iron-signals/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/polymer": "2.0.1"
+  },
+  "deprecated": "Please use @polymer packages instead",
+  "description": "Basic publish-subscribe functionality",
+  "homepage": "https://github.com/PolymerElements/iron-signals/",
+  "ignore": [],
+  "keywords": [
+    "web-component",
+    "polymer",
+    "signals"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "mains": "iron-signals.html",
+  "name": "@polymer/iron-signals",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/iron-signals.git"
+  },
+  "version": "1.0.3"
+}
